@@ -10,9 +10,9 @@ Business Understanding- New Gaming Company is trying to break out into the indus
 
 Data Understanding - This Kaggle dataset is suitable as it contains a plethora of game data from from popular streaming sites. We will explore the data, build machine learning models, and evaluate the performance of the models. Focused on Genre, Publisher, Title, and Year of Release as features of measurement and comparison. 
 
-Data cleaning will take place in order to narrow the data down into a digestable format, excluding the attributes that we are not focusing on. 
+Data cleaning will take place in order to narrow the data down into a digestable format, excluding the attributes that we are not focusing on. A model was made to show any outliers; looked at how the outliers impacted the data. 
 
-Modeling - Performed Linear Multiple Regression, Decision Tree regression, and Random forest tree models. They performed well compared to my baseline prediction. 
+Modeling - Performed Linear Multiple Regression, Decision Tree regression, and Random forest tree models. They performed well compared to my baseline prediction.  
 
 Model	Accuracy	Recall Score
 Dummy Regressor	
